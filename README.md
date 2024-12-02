@@ -4,7 +4,7 @@
 This project is an **Icon Recommendation System** designed to help designers find icons that are visually and contextually similar. The system combines **visual features** from the icons with **semantic information** extracted from their names to provide more relevant recommendations. It aims to solve the problem where designers need icons that not only look similar but also fit the intended meaning or context.
 
 ## Dataset
-The dataset consists of **2,506 icons** from three popular icon sets:
+The dataset consists of **2,259 icons** from three popular icon sets:
 - **Feather Icons**
 - **Font Awesome**
 - **Heroicons**
